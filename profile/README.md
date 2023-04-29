@@ -1,5 +1,5 @@
 <!-- header made with https://leviarista.github.io/github-profile-header-generator/ -->
-![header](/profile/github-header-image.png)
+![header](/profile/github-header-image.gif)
 
 [![](https://dcbadge.vercel.app/api/server/rFywZxgsyF)](https://discord.gg/rFywZxgsyF)
 
